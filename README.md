@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jack127HQ
-- 👀 I’m interested in ... C++
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... Programming
+- 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate with.....
 - 📫 How to reach me .....
 
